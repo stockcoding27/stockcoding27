@@ -1,8 +1,7 @@
 # 👋 주식코딩 (StockCoding)
 
 안녕하세요, **주식 자동매매 코딩** 강의를 제작하고 있는 주식코딩입니다.  
-유튜브 채널 [주식코딩](https://www.youtube.com/@stock_coding)에서 누구나 따라 할 수 있는  
-**API 기반 자동매매 시스템** 강좌를 공유하고 있습니다.
+유튜브 채널 [주식코딩](https://www.youtube.com/@stock_coding)에서 **자동매매와 관련된 많은 컨텐츠**들을 공유하고 있습니다.
 
 ---
 
@@ -27,7 +26,7 @@
 ---
 
 ## 🚀 GitHub Sponsors (주식코딩 채널 컨텐츠의 모든 코드 제공)
-후원자분들께는 자동으로 **전자책, 모든 예제, 실습 코드**가 포함된 프로젝트를 엑세스 할 수 있는 권한이 주어집니다.
+후원자분들께는 자동으로 **전자책, 모든 예제, 실습 코드**가 포함된 Private 프로젝트를 엑세스 할 수 있는 권한이 주어집니다.
 👉 [**GitHub Sponsors 후원하기**](https://github.com/sponsors/StockCodingYouTube)
 
 ---

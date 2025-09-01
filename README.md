@@ -1,7 +1,7 @@
 # 👋 주식코딩 (StockCoding)
 
 안녕하세요, **주식 자동매매 코딩** 강의를 제작하고 있는 주식코딩입니다.  
-유튜브 채널 [주식코딩](https://www.youtube.com/@stock_coding27)에서 누구나 따라 할 수 있는  
+유튜브 채널 [주식코딩](https://www.youtube.com/@stock_coding)에서 누구나 따라 할 수 있는  
 **API 기반 자동매매 시스템** 강좌를 공유하고 있습니다.
 
 ---

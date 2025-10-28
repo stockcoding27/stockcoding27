@@ -7,6 +7,12 @@
 
 ---
 
+## 🚀 GitHub Sponsors (주식코딩 채널 컨텐츠의 모든 코드 제공)
+- 후원자분들께는 자동으로 **전자책, 모든 예제, 실습 코드**가 포함된 Private 프로젝트를 엑세스 할 수 있는 권한이 주어집니다.
+- 👉 [**GitHub Sponsors 후원하기**](https://github.com/sponsors/StockCodingYouTube)
+
+---
+
 ## 📚 강의 & 프로젝트 주제 (Sponsors 전용 코드 제공)
 1. **자동매매 입문자를 위한 파이썬 기초**
    - 재생목록: 자동매매 입문자를 위한 파이썬 기초
@@ -28,11 +34,6 @@
 6. **업비트 API 사용 매뉴얼**  
    - 재생목록: 업비트 API 사용 메뉴얼
 
----
-
-## 🚀 GitHub Sponsors (주식코딩 채널 컨텐츠의 모든 코드 제공)
-- 후원자분들께는 자동으로 **전자책, 모든 예제, 실습 코드**가 포함된 Private 프로젝트를 엑세스 할 수 있는 권한이 주어집니다.
-- 👉 [**GitHub Sponsors 후원하기**](https://github.com/sponsors/StockCodingYouTube)
 
 ---
 

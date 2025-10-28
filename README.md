@@ -3,6 +3,8 @@
 안녕하세요, **주식 자동매매 코딩** 강의를 제작하고 있는 주식코딩입니다.  
 유튜브 채널 [주식코딩](https://www.youtube.com/@stock_coding)에서 **자동매매와 관련된 많은 컨텐츠**들을 공유하고 있습니다.
 
+직접 공부해서 자동매매 프로그램을 만드는 것이 어려운 분들을 위해 [주식코딩 프리미엄 자동매매 프로그램 제작 서비스](https://github.com/stockcoding27/StockCodingCustomProgram)를 운영하고 있습니다.
+
 ---
 
 ## 📚 강의 & 프로젝트 주제 (Sponsors 전용 코드 제공)

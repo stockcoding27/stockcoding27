@@ -10,6 +10,8 @@
 ## 🚀 GitHub Sponsors (주식코딩 채널 컨텐츠의 모든 코드 제공)
 - 후원자분들께는 자동으로 **전자책, 모든 예제, 실습/실전 코드**가 포함된 Private 프로젝트를 엑세스 할 수 있는 권한이 주어집니다.
 - 👉 [**GitHub Sponsors 후원하기**](https://github.com/sponsors/StockCodingYouTube)
+
+- [GitHub 가입 및 사용 가이드 영상 보러 가기](https://youtu.be/HNTpNwHErro?si=trlklaFe8HDN-wyL)
  
 ---
 ![강의 실전 예제](program.gif)

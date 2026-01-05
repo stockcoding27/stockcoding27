@@ -8,7 +8,8 @@
 ---
 
 ## 🎬 실전 자동매매 프로그램 예제
-![강의 실전 예제](program.gif)
+![강의 실전 예제](program.gif)\
+[주식코딩 자동매매 프로그램 시연 모음 보러 가기](https://youtube.com/playlist?list=PLlbsy38S8CCwWkEZ9wzEzlNYD4wdiWN5s&si=g5YWoLwnOf0wHbq-)
 ---
 
 ## 🎥 유튜브 강의는 전부 무료입니다
@@ -43,10 +44,7 @@
 - 🔥 실습 & 실전 자동매매 코드
 - 🧩 Private GitHub 프로젝트 접근 권한
 
-> 👉 **강의 영상은 무료**  
-> 👉 **코드 & 자료만 후원자 전용**
-
-🔗 **[GitHub Sponsors 후원하기](https://github.com/sponsors/StockCodingYouTube)**
+🔗 **[GitHub Sponsors 후원 페이지로 이동하기](https://github.com/sponsors/StockCodingYouTube)**
 
 📺 GitHub가 처음이신 분도 걱정하지 마세요  
 - [GitHub 가입 및 사용 가이드 영상 보러 가기](https://youtu.be/HNTpNwHErro?si=trlklaFe8HDN-wyL)
@@ -58,9 +56,6 @@
 **맞춤형 자동매매 프로그램 제작 서비스**도 운영 중입니다.\
 🔗 [주식코딩 프리미엄 자동매매 프로그램 제작 서비스 설명 보러가기](https://github.com/stockcoding27/StockCodingCustomProgram)
 
-[주식코딩 자동매매 프로그램 시연 모음 보러 가기](https://youtube.com/playlist?list=PLlbsy38S8CCwWkEZ9wzEzlNYD4wdiWN5s&si=g5YWoLwnOf0wHbq-)
-> **한 번의 후원으로  
-> 모든 실습 & 실전 코드와 자료를 바로 사용하세요!**
 
 ---
 ## 📚 강의 & 프로젝트 주제

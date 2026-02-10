@@ -66,6 +66,7 @@
    - [재생목록: 키움증권 API 파이썬 자동매매 프로그램 제작 (1~3일차, 실전편)](https://www.youtube.com/playlist?list=PLlbsy38S8CCxRMIf0mBdIzbbfnEJ1LC4S)
    - [재생목록: 상한가따라잡기 자동매매 프로그램 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCyXKk92gUCEoxHVW04W4hB9)
    - [재생목록: (2025 리뉴얼) 키움 OPEN API+ 기초부터 실전까지](https://www.youtube.com/playlist?list=PLlbsy38S8CCwj-Knpk6RJYGurCqjg90zI)
+   - [재생목록: LS증권 국내/해외 주식 자동매매 프로그램 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCxrwu6F9UA6AIs6f_Hzi6Ae)
 
 3. **키움증권 REST API 기초부터 실전까지**
    - [재생목록: 키움증권 REST API 기초부터 실전까지](https://www.youtube.com/playlist?list=PLlbsy38S8CCyrKyL4JTTkBE4L9m1cw7No)
@@ -78,7 +79,7 @@
 5. **한국투자증권 API로 파이썬 자동매매 시스템 구축**  
    - [재생목록: 한국투자증권 API로 파이썬 자동매매 시스템 구축](https://www.youtube.com/playlist?list=PLlbsy38S8CCwPJez3KA9viVcKT7OkV6X8)
 6. **업비트 API 사용 매뉴얼**  
-   - [재생목록: 업비트 API 사용 메뉴얼](https://www.youtube.com/playlist?list=PLlbsy38S8CCwQZFYtWbur6hqCmKR3e38Y)
+   - [재생목록: 업비트 API 사용 매뉴얼](https://www.youtube.com/playlist?list=PLlbsy38S8CCwQZFYtWbur6hqCmKR3e38Y)
 
 
 ---

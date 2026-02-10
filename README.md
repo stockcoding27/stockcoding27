@@ -61,24 +61,25 @@
 ## 📚 강의 & 프로젝트 주제
 1. **자동매매 입문자를 위한 파이썬 기초**
    - [재생목록: 자동매매 입문자를 위한 파이썬 기초](https://www.youtube.com/playlist?list=PLlbsy38S8CCxK_zIzZ5ao_avWw7dPQ87k)
-2. **키움증권 API 파이썬 자동매매 시스템 구축 강의**  
+2. LS증권 국내/해외 주식 자동매매 프로그램 제작
+   - [재생목록: LS증권 국내/해외 주식 자동매매 프로그램 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCxrwu6F9UA6AIs6f_Hzi6Ae)
+3. **키움증권 API 파이썬 자동매매 시스템 구축 강의**  
    - [재생목록: 키움증권 API 파이썬 자동매매 시스템 구축](https://www.youtube.com/playlist?list=PLlbsy38S8CCySeiSl4YePXQE-KuGBOo0w)
    - [재생목록: 키움증권 API 파이썬 자동매매 프로그램 제작 (1~3일차, 실전편)](https://www.youtube.com/playlist?list=PLlbsy38S8CCxRMIf0mBdIzbbfnEJ1LC4S)
    - [재생목록: 상한가따라잡기 자동매매 프로그램 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCyXKk92gUCEoxHVW04W4hB9)
    - [재생목록: (2025 리뉴얼) 키움 OPEN API+ 기초부터 실전까지](https://www.youtube.com/playlist?list=PLlbsy38S8CCwj-Knpk6RJYGurCqjg90zI)
-   - [재생목록: LS증권 국내/해외 주식 자동매매 프로그램 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCxrwu6F9UA6AIs6f_Hzi6Ae)
 
-3. **키움증권 REST API 기초부터 실전까지**
+4. **키움증권 REST API 기초부터 실전까지**
    - [재생목록: 키움증권 REST API 기초부터 실전까지](https://www.youtube.com/playlist?list=PLlbsy38S8CCyrKyL4JTTkBE4L9m1cw7No)
    - [재생목록: REST API 기반 자동매매 프로그램 실시간 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCyrbpIg_xhvAsm4dIzcUloG)
    - [재생목록: GPT-5와 함께하는 PyQt 자동매매를 WEB으로 확장](https://www.youtube.com/playlist?list=PLlbsy38S8CCwOBzoGt_W0_NAEXezbCDxN)  
 
-4. **자동매매 시스템 구현을 위한 주식 데이터 분석 기초**  
+5. **자동매매 시스템 구현을 위한 주식 데이터 분석 기초**  
    - [재생목록: 자동매매 시스템 구현을 위한 주식 데이터 분석 기초](https://www.youtube.com/playlist?list=PLlbsy38S8CCyKXUCemVwjiJxsq-7sjV8-)
    - [재생목록: 프로그램 매매 데이터 분석](https://www.youtube.com/playlist?list=PLlbsy38S8CCx9r-INNkzpVWjf8F4cxNZo)
-5. **한국투자증권 API로 파이썬 자동매매 시스템 구축**  
+6. **한국투자증권 API로 파이썬 자동매매 시스템 구축**  
    - [재생목록: 한국투자증권 API로 파이썬 자동매매 시스템 구축](https://www.youtube.com/playlist?list=PLlbsy38S8CCwPJez3KA9viVcKT7OkV6X8)
-6. **업비트 API 사용 매뉴얼**  
+7. **업비트 API 사용 매뉴얼**  
    - [재생목록: 업비트 API 사용 매뉴얼](https://www.youtube.com/playlist?list=PLlbsy38S8CCwQZFYtWbur6hqCmKR3e38Y)
 
 

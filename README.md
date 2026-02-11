@@ -1,97 +1,116 @@
-# 👋 주식코딩 (StockCoding)
+# 🚀 자동매매 개발 시간을 단축하고 싶다면 – 주식코딩 실전 코드 패키지
 
-안녕하세요, **전직 증권사 알고리즘 트레이더 출신이 운영하는 주식 자동매매 채널, 주식코딩**입니다.\
-👉**자동매매, 파이썬, 증권사 API 관련 강의 영상은 모두 무료로 제공**하고 있습니다.
+안녕하세요. **전직 증권사 알고리즘 트레이더 출신**이 운영하는 주식코딩입니다.
+유튜브 강의는 모두 무료로 제공하지만, 많은 분들이 이런 고민을 합니다.
 
-> ❗ **강의 영상은 100% 무료**  
-> ❗ **코드 & 자료만 [GitHub Sponsors 후원](https://github.com/sponsors/StockCodingYouTube)으로 제공**
+* 자동매매를 만들다 중간에 막힌다
+* API 연결은 했는데 구조가 잡히지 않는다
+* 백테스트는 되는데 실전 투입이 어렵다
+* 다른 사람의 완성된 설계를 보고 배우고 싶다
+
+👉 이 패키지는 바로 그 문제를 해결하기 위해 만들어졌습니다.
+
 ---
 
-## 🎬 실전 자동매매 프로그램 예제
-![강의 실전 예제](program.gif)\
+## 🎯 이 패키지가 해주는 일
+
+코드를 "주는 것"이 목적이 아닙니다.
+**시행착오와 삽질 시간을 줄여주는 것**이 목적입니다.
+
+혼자서 하나하나 만들면 몇 달이 걸릴 수 있는 구조를,
+이미 동작하는 형태로 보면서 바로 출발할 수 있습니다.
+
+✔ 실전 운용을 고려한 구조
+✔ 반복 개발이 필요 없는 베이스 시스템
+✔ 확장 가능한 형태의 설계
+✔ 전략 연구에 집중할 수 있는 환경
+
+---
+
+## ⏰ 얼마나 차이가 나냐면
+
+많은 분들이 실제로 이렇게 말합니다.
+
+> "진작 이걸 봤으면 몇 달은 아꼈을 텐데요."
+
+여러분의 **시간을 사는 투자**에 가깝습니다.
+
+---
+
+## 📦 제공되는 것
+
+후원자 전용 저장소 접근 권한이 제공되며 아래 자료들을 사용할 수 있습니다.
+
+* 전자책 및 각종 학습 자료
+* 강의에 사용된 모든 예제 코드
+* 실습용 프로젝트
+* 실전 자동매매 구조 코드
+* 지속적인 업데이트 내역
+
+단순 샘플이 아니라, **실제 자동매매를 굴리는 형태에 가까운 코드 베이스**입니다.
+
+---
+
+## 🎬 실제 동작 모습
+
+![강의 실전 예제](program.gif)
+
+👉 유튜브에서 동작 과정을 먼저 확인하고 결정할 수 있습니다.
 [주식코딩 자동매매 프로그램 시연 모음 보러 가기](https://youtube.com/playlist?list=PLlbsy38S8CCwWkEZ9wzEzlNYD4wdiWN5s&si=g5YWoLwnOf0wHbq-)
----
-
-## 🎥 유튜브 강의는 전부 무료입니다
-주식코딩 채널의 모든 강의 영상은  
-✔️ **유튜브에서 누구나 무료로 시청 가능**합니다.
-
-- 자동매매가 처음인 분
-- 파이썬을 처음 배우는 분
-- 증권사 API가 처음인 분  
-
-👉 **비용 없이 공부부터 시작할 수 있습니다.**
 
 ---
 
-## 🏦 왜 주식코딩 강의는 실전 중심인가요?
-주식코딩 채널의 영상은  
-**수년간의 자동매매 경험과 증권사 재직 당시의 실무 경험**을 바탕으로 만들어졌습니다.
+## 💡 이런 분께 특히 좋습니다
 
-단순한 예제 코드가 아닌  
-👉 **실제로 자동매매에 바로 적용할 수 있는 형태**로 강의를 구성했습니다.
-
----
-
-## 🚀 GitHub Sponsors (후원자 전용 코드 & 자료 제공)
-
-**GitHub Sponsors로 한 번만 후원하시면**,  
-강의에서 사용한 모든 코드와 자료를 바로 사용할 수 있습니다.
-
-### 📦 후원자 혜택
-- 📘 전자책 및 각종 자료
-- 🧪 모든 예제 코드
-- 🔥 실습 & 실전 자동매매 코드
-- 🧩 Private GitHub 프로젝트 접근 권한
-
-🔗 **[GitHub Sponsors 후원 페이지로 이동하기](https://github.com/sponsors/StockCodingYouTube)**
-
-📺 GitHub가 처음이신 분도 걱정하지 마세요  
-- [GitHub 가입 및 사용 가이드 영상 보러 가기](https://youtu.be/HNTpNwHErro?si=trlklaFe8HDN-wyL)
- 
----
-
-## 🧑‍💻 자동매매 프로그램 제작이 너무 어렵다면?
-직접 코딩이 부담스러운 분들을 위해  
-**맞춤형 자동매매 프로그램 제작 서비스**도 운영 중입니다.\
-🔗 [주식코딩 프리미엄 자동매매 프로그램 제작 서비스 설명 보러가기](https://github.com/stockcoding27/StockCodingCustomProgram)
-
-
----
-## 📚 강의 & 프로젝트 주제
-1. **자동매매 입문자를 위한 파이썬 기초**
-   - [재생목록: 자동매매 입문자를 위한 파이썬 기초](https://www.youtube.com/playlist?list=PLlbsy38S8CCxK_zIzZ5ao_avWw7dPQ87k)
-2. LS증권 국내/해외 주식 자동매매 프로그램 제작
-   - [재생목록: LS증권 국내/해외 주식 자동매매 프로그램 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCxrwu6F9UA6AIs6f_Hzi6Ae)
-3. **키움증권 API 파이썬 자동매매 시스템 구축 강의**  
-   - [재생목록: 키움증권 API 파이썬 자동매매 시스템 구축](https://www.youtube.com/playlist?list=PLlbsy38S8CCySeiSl4YePXQE-KuGBOo0w)
-   - [재생목록: 키움증권 API 파이썬 자동매매 프로그램 제작 (1~3일차, 실전편)](https://www.youtube.com/playlist?list=PLlbsy38S8CCxRMIf0mBdIzbbfnEJ1LC4S)
-   - [재생목록: 상한가따라잡기 자동매매 프로그램 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCyXKk92gUCEoxHVW04W4hB9)
-   - [재생목록: (2025 리뉴얼) 키움 OPEN API+ 기초부터 실전까지](https://www.youtube.com/playlist?list=PLlbsy38S8CCwj-Knpk6RJYGurCqjg90zI)
-
-4. **키움증권 REST API 기초부터 실전까지**
-   - [재생목록: 키움증권 REST API 기초부터 실전까지](https://www.youtube.com/playlist?list=PLlbsy38S8CCyrKyL4JTTkBE4L9m1cw7No)
-   - [재생목록: REST API 기반 자동매매 프로그램 실시간 제작](https://www.youtube.com/playlist?list=PLlbsy38S8CCyrbpIg_xhvAsm4dIzcUloG)
-   - [재생목록: GPT-5와 함께하는 PyQt 자동매매를 WEB으로 확장](https://www.youtube.com/playlist?list=PLlbsy38S8CCwOBzoGt_W0_NAEXezbCDxN)  
-
-5. **자동매매 시스템 구현을 위한 주식 데이터 분석 기초**  
-   - [재생목록: 자동매매 시스템 구현을 위한 주식 데이터 분석 기초](https://www.youtube.com/playlist?list=PLlbsy38S8CCyKXUCemVwjiJxsq-7sjV8-)
-   - [재생목록: 프로그램 매매 데이터 분석](https://www.youtube.com/playlist?list=PLlbsy38S8CCx9r-INNkzpVWjf8F4cxNZo)
-6. **한국투자증권 API로 파이썬 자동매매 시스템 구축**  
-   - [재생목록: 한국투자증권 API로 파이썬 자동매매 시스템 구축](https://www.youtube.com/playlist?list=PLlbsy38S8CCwPJez3KA9viVcKT7OkV6X8)
-7. **업비트 API 사용 매뉴얼**  
-   - [재생목록: 업비트 API 사용 매뉴얼](https://www.youtube.com/playlist?list=PLlbsy38S8CCwQZFYtWbur6hqCmKR3e38Y)
-
+* 빠르게 실전 구조를 이해하고 싶은 분
+* 혼자 만들며 길을 헤매는 시간을 줄이고 싶은 분
+* 안정적인 자동매매 시스템의 뼈대를 얻고 싶은 분
+* 나만의 전략 개발 단계로 빨리 넘어가고 싶은 분
 
 ---
 
-## 🔗 Connect
-- YouTube: [주식코딩](https://www.youtube.com/@stockcoding27)  
-- GitHub: [stockcoding27](https://github.com/stockcoding27)  
-- Email: stockcoding27@gmail.com  
+## ❓ 왜 무료 강의인데 코드는 유료인가요?
+
+강의는 누구나 공부할 수 있도록 무료로 열어두었습니다.
+하지만 코드는 수년간의 시행착오와 실전 경험이 축적된 결과물입니다.
+
+이 가치를 필요로 하는 분들만 선택할 수 있도록 분리해두었습니다.
 
 ---
 
-✨ **영상은 무료로,  
-코드와 자료는 후원으로 —  
-데이터와 코딩으로 더 스마트한 자동매매를 함께 만들어가요!**
+## 🔐 이용 방법
+
+GitHub Sponsors를 통해 후원하시면 즉시 Private 저장소 접근 권한이 열립니다.
+
+👉 **[후원하고 코드 받기](https://github.com/sponsors/StockCodingYouTube)**
+
+GitHub 사용이 처음이라면 아래 영상을 참고하세요.
+[GitHub 가입 및 사용 가이드 영상](https://youtu.be/HNTpNwHErro?si=trlklaFe8HDN-wyL)
+
+---
+
+## 🧑‍💻 코딩이 부담된다면?
+
+직접 구현이 어려운 분들을 위해
+**맞춤형 자동매매 프로그램 제작 서비스**도 운영하고 있습니다.
+
+🔗 [https://github.com/stockcoding27/StockCodingCustomProgram](https://github.com/stockcoding27/StockCodingCustomProgram)
+
+---
+
+## 📺 강의는 전부 무료입니다
+
+주식코딩 채널에서는 다음과 같은 내용을 무료로 제공합니다.
+
+✔ 파이썬 기초
+✔ 증권사 API 활용
+✔ 자동매매 시스템 구축
+✔ 데이터 분석
+✔ 실전 프로젝트
+
+👉 유튜브에서 먼저 충분히 공부해보고 구매를 결정하셔도 됩니다.
+
+---
+
+✨ 영상은 무료로, 코드는 시간을 아끼는 사람에게.
+주식코딩은 여러분이 **전략 연구에만 집중할 수 있는 환경

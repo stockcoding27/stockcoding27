@@ -80,12 +80,7 @@
 
 ## 🔐 이용 방법
 
-GitHub Sponsors를 통해 후원하시면 즉시 Private 저장소 접근 권한이 열립니다.
-
-👉 **[후원하고 코드 받기](https://github.com/sponsors/StockCodingYouTube)**
-
-GitHub 사용이 처음이라면 아래 영상을 참고하세요.
-[GitHub 가입 및 사용 가이드 영상](https://youtu.be/HNTpNwHErro?si=trlklaFe8HDN-wyL)
+[주식코딩 홈페이지](https://www.stockcoding.kr) 접속 후 코드 구매
 
 ---
 
